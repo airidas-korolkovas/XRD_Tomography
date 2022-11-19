@@ -2,7 +2,7 @@
 This CUDA and Matlab software was used to obtain results published in
 
 Fast X-ray diffraction (XRD) tomography for enhanced identification of materials
-by Airidas Korolkovas 
+by Airidas Korolkovas
 Scientific Reports volume 12, Article number: 19097 (2022)
 https://doi.org/10.1038/s41598-022-23396-2
 
